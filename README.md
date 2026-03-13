@@ -1,4 +1,3 @@
-# Practical-1
 # sdapractical1_48
 import pandas as pd 
 import numpy as np 
